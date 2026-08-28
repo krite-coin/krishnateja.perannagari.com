@@ -1,0 +1,9 @@
+[
+  {"path":"/","file":"index.html","title":"Practical Marketing Solutions for Business Growth","description":"Marketing strategy, digital growth, customer experience, analytics and applied AI solutions for SMEs, start-ups and organisations.","page":"home"},
+  {"path":"/solutions/","file":"solutions/index.html","title":"Marketing Consultancy Solutions","description":"Practical solutions spanning marketing strategy, digital visibility, customer experience, analytics, applied AI and customised workshops.","page":"solutions"},
+  {"path":"/projects/","file":"projects/index.html","title":"Business Applications","description":"Selected applications of marketing research, customer insight, strategy and analytics to practical business decisions.","page":"projects"},
+  {"path":"/insights/","file":"insights/index.html","title":"Marketing Insights","description":"Practical marketing insights for business owners, professionals and learners.","page":"insights"},
+  {"path":"/health-check/","file":"health-check/index.html","title":"Marketing Health Check","description":"Assess ten foundations of marketing capability and receive an instant score with practical next steps.","page":"health"},
+  {"path":"/contact/","file":"contact/index.html","title":"Contact","description":"Discuss a marketing strategy, digital growth, customer experience, analytics, AI or training requirement.","page":"contact"},
+  {"path":"/privacy/","file":"privacy/index.html","title":"Privacy","description":"How this website handles enquiry information, analytics and external links.","page":"privacy"}
+]

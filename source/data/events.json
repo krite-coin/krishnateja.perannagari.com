@@ -1,0 +1,11 @@
+{
+  "phone": "phone_click",
+  "email": "email_click",
+  "gmail": "gmail_enquiry_open",
+  "emailApp": "email_app_open",
+  "copy": "enquiry_details_copy",
+  "linkedin": "linkedin_click",
+  "blog": "blog_click",
+  "health": "health_check_complete",
+  "service": "service_enquiry_click"
+}

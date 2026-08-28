@@ -1,0 +1,14 @@
+{
+  "profilePhoto": {
+    "file": "/assets/images/profile/krishna-teja.webp",
+    "alt": "Dr Krishna Teja Perannagari, marketing consultant",
+    "recommendedSize": "800 × 1000 px",
+    "status": "optional"
+  },
+  "socialCard": {
+    "file": "/assets/images/social/social-card.jpg",
+    "alt": "Dr Krishna Teja Perannagari - Marketing Consultant",
+    "recommendedSize": "1200 × 630 px",
+    "status": "optional"
+  }
+}

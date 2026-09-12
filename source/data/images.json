@@ -10,5 +10,25 @@
     "alt": "Dr Krishna Teja Perannagari - Marketing Consultant",
     "recommendedSize": "1200 × 630 px",
     "status": "optional"
+  },
+  "iconFacebook": {
+    "file": "/assets/icons/facebook.svg",
+    "alt": "Facebook logo",
+    "status": "active"
+  },
+  "iconInstagram": {
+    "file": "/assets/icons/instagram.svg",
+    "alt": "Instagram logo",
+    "status": "active"
+  },
+  "iconYoutube": {
+    "file": "/assets/icons/youtube.svg",
+    "alt": "YouTube logo",
+    "status": "active"
+  },
+  "iconLinkedin": {
+    "file": "/assets/icons/linkedin.svg",
+    "alt": "LinkedIn logo",
+    "status": "active"
   }
 }
